@@ -13,3 +13,8 @@ You could do a unit test for the message feature but that should not be the main
 You should use a unit test for this because it is a specific requirement that can easily be tested in a manner of if it is succuessful or not. 
  
 https://jamesvillanueva-dev.github.io/Lab5_Starter/
+
+
+## Live Pages
+- [Expose Page](https://jamesvillanueva-dev.github.io/Lab5_Starter/expose.html)
+- [Explore Page](https://jamesvillanueva-dev.github.io/Lab5_Starter/explore.html)
